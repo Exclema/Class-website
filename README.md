@@ -21,8 +21,12 @@ This is a website that will help students have discussions and share assignments
 -New profile
 -Updated profile
 
+####Announcements Module
+-View
+-Add
+-Update
+-Delete
+-Archive
 ##Software design description
-
-
 
 ####Register Interface
